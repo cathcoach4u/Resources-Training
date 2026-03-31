@@ -5,47 +5,48 @@ hide:
 
 # Training
 
-## Relate / PORT
-
-My primary ongoing training. Includes the current 2026 Level 2 Intensive, reference library, presentations, and all previous courses.
-
 <div class="grid cards" markdown>
 
--   :material-book-open: **[Relate Overview](relate/index.md)**
+-   :material-heart-pulse: **[Relate / PORT](relate/index.md)**
 
     ---
 
-    About Relate, training history, and how I use PORT in practice.
+    Couples therapy training. Current 2026 Level 2 Intensive, reference library, presentations, and all previous courses.
 
--   :material-school: **[Current Program — 2026 PORT Level 2](relate/current-program/index.md)**
-
-    ---
-
-    8-week live intensive. Session notes, modules, exercises, and homework.
-
--   :material-bookshelf: **[Reference Library](relate/reference-library/index.md)**
+-   :material-account-heart: **[Gottman](gottman/index.md)**
 
     ---
 
-    13 PORT resources: Anger Shield, The Bridge, Feelings Wheel, and more.
+    Gottman couples training and resources.
 
--   :material-presentation: **[Presentations](relate/presentations/index.md)**
+-   :material-head-cog: **[ADHD Coaching — PESI](adhd-pesi/index.md)**
 
     ---
 
-    PowerPoint decks and SharePoint links from past training.
+    ADHD coaching certification via PESI.
+
+-   :material-arm-flex: **[Gallup](gallup/index.md)**
+
+    ---
+
+    Gallup Learning Series — strengths-based training.
+
+-   :material-certificate: **[AIPC](aipc/index.md)**
+
+    ---
+
+    Diploma of Counselling and Certified Police Check.
+
+-   :material-hospital-box: **[MHPN](mhpn/index.md)**
+
+    ---
+
+    Mental Health Professionals Network — certificates of attendance.
+
+-   :material-shield-account: **[ICF](icf/index.md)**
+
+    ---
+
+    International Coaching Federation — certificates of attendance.
 
 </div>
-
----
-
-## Other Training & Certifications
-
-| Provider | Area | Status | Details |
-|----------|------|--------|---------|
-| [Gottman](gottman/index.md) | Couples Training | Completed | [Resources](gottman/resources.md) |
-| [ADHD — PESI](adhd-pesi/index.md) | ADHD Coaching | Completed | [Resources](adhd-pesi/resources.md) |
-| [Gallup](gallup/index.md) | Strengths / Learning Series | Completed | [Resources](gallup/resources.md) |
-| [AIPC](aipc/index.md) | Diploma of Counselling | Completed | |
-| [MHPN](mhpn/index.md) | CPD / Mental Health Network | Completed | |
-| [ICF](icf/index.md) | CPD / Coaching Federation | Completed | |
