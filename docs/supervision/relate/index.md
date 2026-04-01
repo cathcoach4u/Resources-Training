@@ -15,6 +15,7 @@
 
 | Date | Hours | Type | Certificate | Receipt | Session Notes |
 |------|-------|------|-------------|---------|---------------|
+| 1 Apr 2026 | 1 | Group | | | [Notes](sessions/2026-04-01.md) |
 | 13 Jun 2024 | 1 | Peer | | | |
 | 27 Jun 2024 | 1 | Peer | | | |
 | 27 Jun 2024 | 1 | Targeted Group | | | |
