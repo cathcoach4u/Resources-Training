@@ -29,6 +29,13 @@
   --md-typeset-color: #f1f5f9;
 }
 
+/* Mobile safe area — push header below notch/status bar */
+@supports (padding-top: env(safe-area-inset-top)) {
+  .md-header {
+    padding-top: env(safe-area-inset-top);
+  }
+}
+
 /* Cards — match Baker Hub style */
 .md-typeset .grid.cards > ul > li {
   background: #ffffff;
