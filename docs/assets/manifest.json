@@ -1,13 +1,13 @@
 {
-  "name": "Coach4U Training",
-  "short_name": "Training",
-  "description": "Coach4U Resources & Training Hub",
+  "name": "Coach4U Professional Development",
+  "short_name": "Prof Dev",
+  "description": "Coach4U Professional Development Hub",
   "start_url": "/Internal-Resources-Training/",
   "scope": "/Internal-Resources-Training/",
   "display": "standalone",
   "orientation": "any",
-  "background_color": "#0d9488",
-  "theme_color": "#0d9488",
+  "background_color": "#3b82f6",
+  "theme_color": "#3b82f6",
   "icons": [
     {
       "src": "icon-192.svg",
