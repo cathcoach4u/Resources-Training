@@ -76,13 +76,13 @@ The weekly coaching session is the core. SAFE is what we use alongside it — to
 
 So what is SAFE?
 
-SAFE is a weekly check-in made up of 20 short statements. You respond on a scale of one to five — never to always. It takes about five minutes. Your first instinct is usually the most accurate, so there's no need to overthink it.
+SAFE is a weekly check-in made up of 10 questions. You respond on a scale of one to five — never to always. It takes about five minutes. Your first instinct is usually the most accurate, so there's no need to overthink it.
 
 It's not a test. It's not a clinical assessment. It's a reflection tool that helps you notice where you are and see your own patterns over time.
 
 [PAUSE]
 
-SAFE stands for Self Awareness, Aim, Foundation, and Emotion. Each one is an area of how you function day to day. Together, they give you a picture of your capacity — not as a single number, but as something you can actually understand and work with.
+SAFE stands for Self Awareness, Aim, Foundation, and Emotion. Each one is an area of how you function day to day. When you complete the check-in, you'll get a SAFE Report that breaks down your scores across all four domains — and that's what you'll bring to your coaching session each week.
 
 **VISUAL:** The letters S, A, F, E appear one at a time. Below each: Self Awareness (brain icon), Aim (target icon), Foundation (bricks icon), Emotion (heart icon). Simple, clean, unhurried.
 
@@ -120,13 +120,13 @@ And Emotion is about what you're carrying. Stress, frustration, worry, joy — a
 
 ### SCRIPT
 
-When you complete the check-in, your responses generate a SAFEty Pulse score. This places you somewhere on what we call the Capacity Journey.
+When you complete the check-in, your responses generate your SAFE Report. This report shows you exactly where you are across Self Awareness, Aim, Foundation, and Emotion. It also shows you your Capacity Journey score — where you sit right now.
 
 Your capacity naturally goes up and down — that's completely normal. The Capacity Journey isn't a ladder you climb. It's a way of seeing where you are right now, so you can respond to it honestly.
 
 [PAUSE]
 
-Your SAFEty Pulse report also breaks down your scores across all four domains and gives you personalised insights — what's working, what's draining you, and where to focus your energy this week.
+The SAFE Report gives you personalised insights — what's working, what's draining you, and where to focus your energy this week. That's what you bring to your coaching session. That's the conversation starter.
 
 **VISUAL:** SAFEty Pulse report preview — score of 113, "Stabilising" label. A winding road illustration showing the Capacity Journey. Then a graph showing capacity fluctuating naturally over days and weeks — zigzag line, trending gently upward.
 
@@ -140,9 +140,9 @@ Your SAFEty Pulse report also breaks down your scores across all four domains an
 
 So how does this work each week?
 
-Step one — complete the five-minute SAFE check-in before your session. Step two — see your Capacity Journey score. Step three — identify your one focus domain. And step four — bring it to the session, so we can work with what's real for you that week.
+Step one — complete the five-minute SAFE check-in before your session. Step two — you get your SAFE Report with your scores and insights. Step three — identify your one focus domain from the report. And step four — bring the report to the session, so we can work with what's real for you that week.
 
-That's it. Five minutes of reflection that makes the entire session more useful.
+That's it. Five minutes of reflection that makes the entire session more useful and more targeted to what you actually need.
 
 **VISUAL:** Four steps in a horizontal flow — Step 1: tablet icon (check-in), Step 2: eye icon (see your score), Step 3: magnifying glass (one focus domain), Step 4: calendar icon (bring it to the session). Clean, left to right.
 
