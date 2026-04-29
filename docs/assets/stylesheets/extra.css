@@ -1,11 +1,13 @@
-/* Coach4U Design System — matched to Baker Hub */
+/* Coach4U Design System — aligned to cathcoach4u/coach4u-shared */
 
 :root {
-  /* Primary colours */
-  --md-primary-fg-color: #0d9488;
-  --md-primary-fg-color--light: #14b8a6;
-  --md-primary-fg-color--dark: #0f766e;
-  --md-accent-fg-color: #3b82f6;
+  /* Primary — navy (shared --primary: #003366) */
+  --md-primary-fg-color: #003366;
+  --md-primary-fg-color--light: #004d99;
+  --md-primary-fg-color--dark: #002244;
+
+  /* Accent — teal (shared --accent: #0D9488) */
+  --md-accent-fg-color: #0d9488;
 
   /* Typography */
   --md-text-font: 'Segoe UI', system-ui, -apple-system, sans-serif;
@@ -18,7 +20,7 @@
   --md-default-fg-color--lighter: #94a3b8;
 
   /* Background */
-  --md-default-bg-color: #f8fafc;
+  --md-default-bg-color: #f0f4f8;
   --md-default-bg-color--light: #ffffff;
 }
 
@@ -36,7 +38,7 @@
   }
 }
 
-/* Cards — match Baker Hub style */
+/* Cards */
 .md-typeset .grid.cards > ul > li {
   background: #ffffff;
   border: 1px solid #e2e8f0;
@@ -62,7 +64,7 @@
   }
 }
 
-/* Tables — match Baker Hub */
+/* Tables */
 .md-typeset table:not([class]) {
   border: 1px solid #e2e8f0;
   border-radius: 10px;
@@ -89,17 +91,17 @@
   background: #f8fafc;
 }
 
-/* Navigation tabs — teal background */
+/* Navigation tabs — navy (shared primary) */
 .md-tabs {
-  background: #0d9488;
+  background: #003366;
 }
 
-/* Header */
+/* Header — navy (shared primary) */
 .md-header {
-  background: #0d9488;
+  background: #003366;
 }
 
-/* Buttons */
+/* Buttons — teal (shared accent) */
 .md-typeset .md-button {
   background: #0d9488;
   color: white;
@@ -112,7 +114,7 @@
   background: #0f766e;
 }
 
-/* Admonitions — teal success */
+/* Admonitions */
 .md-typeset .admonition.success,
 .md-typeset details.success {
   border-color: #0d9488;
@@ -120,16 +122,16 @@
 
 /* Content area */
 .md-content {
-  background: #f8fafc;
+  background: #f0f4f8;
 }
 
 .md-main__inner {
-  background: #f8fafc;
+  background: #f0f4f8;
 }
 
 /* Sidebar */
 .md-sidebar {
-  background: #f8fafc;
+  background: #f0f4f8;
 }
 
 /* Search */
@@ -139,12 +141,12 @@
 
 /* Headings */
 .md-typeset h1 {
-  color: #1e293b;
+  color: #003366;
   font-weight: 700;
 }
 
 .md-typeset h2 {
-  color: #1e293b;
+  color: #003366;
   font-weight: 700;
 }
 
